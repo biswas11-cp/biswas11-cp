@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Biswas Mohanty 👋
 
-<!--
-**biswas11-cp/biswas11-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- Aspiring **Software Engineer** with a focus on **Java Full Stack Development**.  
+- Passionate about building **web applications** and exploring **AI & Machine Learning**.  
+- Continuously learning new technologies and improving coding skills.  
+
+---
+
+## 🛠️ Skills
+
+**Programming Languages:**  
+- Java, HTML, CSS, JavaScript
+
+**Frameworks & Libraries:**  
+- Spring Boot
+
+**Databases:**  
+- MySQL
+
+**Tools & Platforms:**  
+- Git, GitHub, Maven, IntelliJ IDEA  
+
+---
+
+
+## 📈 GitHub Stats
+![Biswas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+- ✉️ Email: biswasomm13@gmail.com  
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/biswas-mohanty)    
+
+---
+
