@@ -28,11 +28,6 @@ Welcome to my GitHub profile!
 ---
 
 
-## 📈 GitHub Stats
-![Biswas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 - ✉️ Email: biswasomm13@gmail.com  
 - 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/biswas-mohanty)    
